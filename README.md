@@ -1,3 +1,3 @@
 # Demo
 
-Learning how to add my projects to this repository.
+Learning how to add my projects to a repository.
